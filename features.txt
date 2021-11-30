@@ -1,0 +1,14 @@
+lifts features
+
+[x] animate lift raising
+[ ] animate lowering
+[ ] static: leave space for building, draw ground, person
+[ ] person gets into lift
+[ ] person gets out of lift and plummets
+[ ] person selects random floor. and plummets
+[ ] add one floor of building: person has a chance
+[ ] a second person randomly appears and calls lift
+[ ] people move away from lift to random floor location
+[ ] people explode if try to co-exist in same location
+[ ] people take lift again after random pause
+[ ] ...
